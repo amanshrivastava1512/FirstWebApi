@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2uUJAgTV7epGjV+1+Fwy/mnwFTRf/keQwRfL8vDWT8k6JJ237Lv80lYFqlvLUk9JZclWVGm/WixA3qwmvCRNTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amanr\\source\\repos\\Azure7Handson\\Azure7Handson\\Azure7Handson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amanr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
